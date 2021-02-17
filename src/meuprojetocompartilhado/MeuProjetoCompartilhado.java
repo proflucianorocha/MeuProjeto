@@ -7,7 +7,7 @@ package meuprojetocompartilhado;
 
 /**
  *
- * @author Lubero
+ * @author lucianorocha
  */
 public class MeuProjetoCompartilhado {
 
